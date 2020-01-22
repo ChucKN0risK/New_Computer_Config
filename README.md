@@ -53,3 +53,6 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 1) Update musuic location folder
 2) Disable "Keep iTunes folder media organized"
 3) Disable "Copy files to iTunes media folder"
+
+#### Docker config
+Add the `specify-api`, `specify-font-converter` and `specify-image-service` in the File Sharing settings.
