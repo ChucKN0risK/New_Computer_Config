@@ -56,4 +56,4 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 4) Disable notifications when song changes
 
 #### Docker config
-Add the `specify-api`, `specify-font-converter` and `specify-image-service` in the File Sharing settings.
+Add the `specify-api`, `specify-font-converter` and `specify-image-service` project directories in the File Sharing settings.
