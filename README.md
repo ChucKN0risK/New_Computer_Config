@@ -50,9 +50,10 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 - Toggle "Don't create username folders"
 
 #### Updates iTunes Preferences
-1) Update musuic location folder
+1) Update music location folder
 2) Disable "Keep iTunes folder media organized"
 3) Disable "Copy files to iTunes media folder"
+4) Disable notifications when song changes
 
 #### Docker config
 Add the `specify-api`, `specify-font-converter` and `specify-image-service` in the File Sharing settings.
