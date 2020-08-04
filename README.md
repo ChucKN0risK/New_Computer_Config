@@ -20,7 +20,7 @@ List of things to do with a new computer
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew cask install google-chrome slack firefox skype sketch visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion datagrip dashlane megasync loom meta abstract ngrok deepl`
+	- `brew cask install google-chrome slack firefox skype sketch visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion datagrip dashlane megasync meta cleanshot abstract ngrok deepl`
 - Install [iStats](https://github.com/Chris911/iStats): `sudo gem install iStats`. Run it via: `iStats`.
 - Install Mac App Store Softs (Sip, iA Writer, The Unarchiver)
 	- `mas install 507257563 775737590 425424353`
