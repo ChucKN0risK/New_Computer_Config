@@ -44,6 +44,7 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 - Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)`
 - Change keyboard key repeat rate to make it faster : System Preferences => Keyboard => Key Repeat Rate
 - Disable sound effects for Paste
+- Add margins to iTerm (Advanced > General): 30 for y and 50 for x margins
 
 #### Soulseek Config
 - Import config
