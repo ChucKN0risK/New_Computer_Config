@@ -3,7 +3,7 @@ List of things to do with a new computer
 
 💡 Enhance with https://gist.github.com/t-io/8255711
 
-#### BetterTouchTool license & backup + Tower license + Sketch license
+#### BetterTouchTool license & backup + Tower license
 
 #### Things to install:
 - Install [Homebrew](http://brew.sh/)
