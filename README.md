@@ -20,7 +20,7 @@ List of things to do with a new computer
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew cask install google-chrome slack firefox skype sketch visual-studio-code iterm2 flux bettertouchtool tower transmit zeplin postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion datagrip dashlane megasync meta cleanshot abstract ngrok deepl`
+	- `brew cask install google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion datagrip dashlane megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom`
 - Install [iStats](https://github.com/Chris911/iStats): `sudo gem install iStats`. Run it via: `iStats`.
 - Install Mac App Store Softs (Sip, iA Writer, The Unarchiver)
 	- `mas install 507257563 775737590 425424353`
@@ -32,6 +32,7 @@ List of things to do with a new computer
 - [svgo-gui](http://goo.gl/0Qu9B)
 - [Paste 2.5](https://pasteapp.io/mac/legacy/download/)
 - [Paste Helper](https://pasteapp.me/helper/)
+- [Logi Options](https://www.logitech.fr/fr-fr/product/options)
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade`
 
