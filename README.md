@@ -19,8 +19,9 @@ List of things to do with a new computer
 	- [Mac App Store command line interface](https://github.com/mas-cli/mas) `brew install mas`
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
+- Fix potential QL plugins: Example for webpquicklook `xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew cask install google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion datagrip dashlane megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom`
+	- `brew cask install google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom tempo`
 - Install [iStats](https://github.com/Chris911/iStats): `sudo gem install iStats`. Run it via: `iStats`.
 - Install Mac App Store Softs (Sip, iA Writer, The Unarchiver)
 	- `mas install 507257563 775737590 425424353`
@@ -28,7 +29,6 @@ List of things to do with a new computer
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
 - [EasySubs](https://tucci.me/projects/easysubs/)
-- [Tempo](https://www.yourtempo.co/)
 - [svgo-gui](http://goo.gl/0Qu9B)
 - [Paste 2.5](https://pasteapp.io/mac/legacy/download/)
 - [Paste Helper](https://pasteapp.me/helper/)
@@ -40,7 +40,7 @@ List of things to do with a new computer
 - Add BetterTouchTool, Flux, Mega at startup
 - [Set VisualStudio Code $PATH](https://stackoverflow.com/a/29971430/3906770):
 After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
-- Log in npm through the CLI : `npm login`
+- Log in npm through the CLI: `npm login`
 - Do this to automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
 - Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)`
 - Change keyboard key repeat rate to make it faster : System Preferences => Keyboard => Key Repeat Rate
@@ -58,6 +58,3 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 2) Disable "Keep iTunes folder media organized"
 3) Disable "Copy files to iTunes media folder"
 4) Disable notifications when song changes
-
-#### Docker config
-Add the `specify-api`, `specify-font-converter` and `specify-image-service` project directories in the File Sharing settings.
