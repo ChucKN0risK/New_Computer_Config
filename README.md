@@ -18,7 +18,7 @@ List of things to do with a new computer
 	- [youtube-dl](https://rg3.github.io/youtube-dl/) `brew install youtube-dl`
 	- [Mac App Store command line interface](https://github.com/mas-cli/mas) `brew install mas`
 - Install [QuickLook Plugins](https://github.com/sindresorhus/quick-look-plugins)
-	- `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
+	- `brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - Fix potential QL plugins: Example for webpquicklook `xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator`
 - [Install main softs](https://caskroom.github.io/search)
 	- `brew cask install google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom tempo`
