@@ -21,15 +21,12 @@ List of things to do with a new computer
 	- `brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - Fix potential QL plugins: Example for webpquicklook `xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew cask install google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit postman soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom tempo`
-- Install [iStats](https://github.com/Chris911/iStats): `sudo gem install iStats`. Run it via: `iStats`.
-- Install Mac App Store Softs (Sip, iA Writer, The Unarchiver)
+	- `brew cask install google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom tempo`
+- Install Mac App Store Softs (iA Writer, The Unarchiver)
 	- `mas install 507257563 775737590 425424353`
 - Update Potential outdated App Store apps such as Xcode
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
-- [EasySubs](https://tucci.me/projects/easysubs/)
-- [svgo-gui](http://goo.gl/0Qu9B)
 - [Paste 2.5](https://pasteapp.io/mac/legacy/download/)
 - [Paste Helper](https://pasteapp.me/helper/)
 - [Logi Options](https://www.logitech.fr/fr-fr/product/options)
@@ -47,11 +44,15 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 - Disable sound effects for Paste
 - Add margins to iTerm (Advanced > General): 30 for y and 50 for x margins
 
-#### Soulseek Config
+#### Soulseek config
 - Import config
 - Enable UPnP mapping
 - Toggle "Don't create subfolders for single downloads"
 - Toggle "Don't create username folders"
+
+#### Tower config
+1. Add Finder and Terminal shortcuts in the toolbar
+2. Set iTerm2 as the default Terminal app
 
 #### Updates iTunes Preferences
 1) Update music location folder
