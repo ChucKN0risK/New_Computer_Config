@@ -55,7 +55,7 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 2. Set iTerm2 as the default Terminal app
 
 #### Update macOS preferences
-- [Disable "Wake for WiFi access"](https://cln.sh/93Eswi)
+- [Disable "Wake for WiFi access"](https://cln.sh/93Eswi) + [Other Settings](https://twitter.com/thorstenball/status/1088842854892482561)
 
 #### Updates iTunes Preferences
 1) Update music location folder
