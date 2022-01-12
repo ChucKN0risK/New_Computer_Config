@@ -61,7 +61,8 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 2. Import presets and license
 
 ### Cleanshot
-Configure Cleanshot by importing license from personal email address
+1. Configure Cleanshot by importing license from personal email address
+2. Open on startup
 
 ### Soulseek config
 - Import config
