@@ -60,6 +60,9 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 1. Basic Settings > Open on startup
 2. Import presets and license
 
+### Cleanshot
+Configure Cleanshot by importing license from personal email address
+
 ### Soulseek config
 - Import config
 - Enable UPnP mapping
