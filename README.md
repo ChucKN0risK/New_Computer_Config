@@ -68,6 +68,9 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 2. Open on startup
 3. Replace system shortcuts by Cleanshot X ones
 4. Add OCR shortcut as: Command + Shift + 2
+5. Preferences > Quick Access > Set Overlay size to 2
+6. Preferences > Recording > Enable Highlight clicks
+7. Preferences > Screenshots > Set File Format to JPG
 
 ### Soulseek config
 - Import config
