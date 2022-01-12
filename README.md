@@ -52,8 +52,7 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 7. Automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
 8. Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)`
 9. Disable sound effects for Paste
-10. Add margins to iTerm (Advanced > General): 30 for y and 50 for x margins
-11. Import BetterTouchTool license & backup
+10. Add margins to iTerm (Preferences > Appearance): `30` for y and `50` for x margins
 12. Import Tower license
 
 ### BetterTouchTool
