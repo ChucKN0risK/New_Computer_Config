@@ -45,8 +45,9 @@ List of things to do with a new computer
 1. Open Firefox and connect Firefox account to sync settings
 2. Connect to Lastpass
 3. Install [MyMind Firefox extension](https://mymind.com/wp-content/uploads/2021/11/mymind_an_extension_for_your_mind-2.0.2-fx.xpi)
-4. Add BetterTouchTool, Flux, Mega at startup
-5. [Set VisualStudio Code $PATH](https://stackoverflow.com/a/29971430/3906770):
+4. Open BetterTouchTool > Basic Settings > Open BetterTouchTool on startup
+5. Enable Flux, Mega at startup
+6. [Set VisualStudio Code $PATH](https://stackoverflow.com/a/29971430/3906770):
 After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
 6. Log in npm through the CLI: `npm login`
 7. Automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
