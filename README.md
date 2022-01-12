@@ -7,7 +7,7 @@ List of things to do with a new computer
 
 #### Things to install:
 - Install [Homebrew](http://brew.sh/)
-	- `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+	- `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - Install Oh My Zsh
 	_ `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 - Install NVM : `curl -L https://github.com/creationix/nvm/raw/v0.33.11/install.sh | bash`
