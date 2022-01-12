@@ -59,9 +59,15 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 1. Basic Settings > Open on startup
 2. Import presets and license
 
+### Paste
+1. Set shortcuts
+  - 
+
 ### Cleanshot
 1. Configure Cleanshot by importing license from personal email address
 2. Open on startup
+3. Replace system shortcuts by Cleanshot X ones
+4. Add OCR shortcut as: Command + Shift + 2
 
 ### Soulseek config
 - Import config
