@@ -30,10 +30,12 @@ List of things to do with a new computer
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade`
 
 ## 2. Update macOS preferences
-1. Disable natural scroll direction in System Preferences
-2. Change keyboard key repeat rate to make it faster: System Preferences => Keyboard => Key Repeat Rate
-3. [Disable "Wake for WiFi access"](https://cln.sh/93Eswi) + [Other Settings](https://twitter.com/thorstenball/status/1088842854892482561)
-4. Update iTunes Preferences
+1. Disable natural scroll direction
+2. Enable Dock hiding
+3. Change right click to right bottom corner
+4. Change keyboard key repeat rate to make it faster: System Preferences => Keyboard => Key Repeat Rate
+5. [Disable "Wake for WiFi access"](https://cln.sh/93Eswi) + [Other Settings](https://twitter.com/thorstenball/status/1088842854892482561)
+6. Update iTunes Preferences
 	1. Update music location folder
 	2. Disable "Keep iTunes folder media organized"
 	3. Disable "Copy files to iTunes media folder"
