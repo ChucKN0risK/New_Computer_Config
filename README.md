@@ -45,7 +45,6 @@ List of things to do with a new computer
 1. Open Firefox and connect Firefox account to sync settings
 2. Connect to Lastpass
 3. Install [MyMind Firefox extension](https://mymind.com/wp-content/uploads/2021/11/mymind_an_extension_for_your_mind-2.0.2-fx.xpi)
-4. Open BetterTouchTool > Basic Settings > Open BetterTouchTool on startup
 5. Enable Flux, Mega at startup
 6. [Set VisualStudio Code $PATH](https://stackoverflow.com/a/29971430/3906770):
 After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
@@ -56,6 +55,10 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 10. Add margins to iTerm (Advanced > General): 30 for y and 50 for x margins
 11. Import BetterTouchTool license & backup
 12. Import Tower license
+
+### BetterTouchTool
+1. Basic Settings > Open on startup
+2. Import presets and license
 
 ### Soulseek config
 - Import config
