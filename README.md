@@ -32,15 +32,19 @@ List of things to do with a new computer
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade`
 
 #### Todo
-- Add BetterTouchTool, Flux, Mega at startup
-- [Set VisualStudio Code $PATH](https://stackoverflow.com/a/29971430/3906770):
+1. Disable natural scroll direction in System Preferences
+2. Change keyboard key repeat rate to make it faster: System Preferences => Keyboard => Key Repeat Rate
+3. Open Firefox and connect Firefox account to sync settings
+4. Connect to Lastpass
+5. Install [MyMind Firefox extension](https://mymind.com/wp-content/uploads/2021/11/mymind_an_extension_for_your_mind-2.0.2-fx.xpi)
+6. Add BetterTouchTool, Flux, Mega at startup
+7. [Set VisualStudio Code $PATH](https://stackoverflow.com/a/29971430/3906770):
 After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P on Mac) and type shell command to find the Shell Command: Install 'code' command in PATH command.
-- Log in npm through the CLI: `npm login`
-- Do this to automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
-- Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)`
-- Change keyboard key repeat rate to make it faster : System Preferences => Keyboard => Key Repeat Rate
-- Disable sound effects for Paste
-- Add margins to iTerm (Advanced > General): 30 for y and 50 for x margins
+7. Log in npm through the CLI: `npm login`
+8. Automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
+9. Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)`
+10. Disable sound effects for Paste
+11. Add margins to iTerm (Advanced > General): 30 for y and 50 for x margins
 
 #### Soulseek config
 - Import config
