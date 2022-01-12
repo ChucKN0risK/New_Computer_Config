@@ -19,9 +19,9 @@ List of things to do with a new computer
 	- `brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - Fix potential QL plugins: Example for webpquicklook `xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew install --cask google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom superhuman gather`
-- Install Mac App Store Softs (iA Writer, The Unarchiver)
-	- `mas install 507257563 775737590 425424353`
+	- `brew install --cask google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom superhuman gather the-unarchiver`
+- Install Mac App Store Softs (iA Writer)
+	- `mas install 775737590`
 - Update Potential outdated App Store apps such as Xcode
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
