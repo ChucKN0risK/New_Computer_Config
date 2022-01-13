@@ -53,7 +53,7 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 8. Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)`
 9. Disable sound effects for Paste
 10. Add margins to iTerm (Preferences > Appearance): `30` for y and `50` for x margins
-12. Import Tower license
+12. [Import Tower license](https://account.git-tower.com/account/licenses)
 
 ### BetterTouchTool
 1. Basic Settings > Open on startup
