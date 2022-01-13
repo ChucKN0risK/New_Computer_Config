@@ -25,6 +25,7 @@ List of things to do with a new computer
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
 - [Paste 2.5](https://pasteapp.io/mac/legacy/download/)
 - [Logi Options](https://www.logitech.fr/fr-fr/product/options)
+- [Texts](texts.com)
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade`
 
