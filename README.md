@@ -60,7 +60,13 @@ After installation, launch VS Code. Now open the Command Palette (F1 or ⇧⌘P 
 2. Import presets and license
 
 ### Paste
-- Set shortcuts 
+- Set shortcuts
+
+### Gather
+- Disable minimize window: Preferences > Desktop
+
+### Metabase
+- Disable adblock for Metabase. Otherwise hompegae won't be accessible.
 
 ### Cleanshot
 1. Configure Cleanshot by importing license from personal email address
