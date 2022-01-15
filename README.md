@@ -40,7 +40,7 @@ List of things to do with a new computer
 	2. Disable "Keep iTunes folder media organized"
 	3. Disable "Copy files to iTunes media folder"
 	4. Disable notifications when song changes
-	5. Import all Music Playlist (May have to update the tracks path in VS Code to match user name in macOS)
+	5. Import all Music Playlist from MEGA (May have to update the tracks path in VS Code to match user name in macOS)
 
 ## 3. Others
 1. Open Firefox and connect Firefox account to sync settings
