@@ -5,7 +5,6 @@ List of things to do with a new computer
 
 ## 1. Install apps
 - Install [Homebrew](http://brew.sh/): `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-- Install Oh My Zsh: `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 - Install NVM: `curl -L https://github.com/creationix/nvm/raw/v0.33.11/install.sh | bash`
 - Install tools
 	- `brew install git node awscli ffmpeg`
@@ -17,7 +16,8 @@ List of things to do with a new computer
 	- `brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - Fix potential QL plugins: Example for webpquicklook `xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator`
 - [Install main softs](https://caskroom.github.io/search)
-	- `brew install --cask google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom superhuman gather the-unarchiver obsidian`
+	- `brew install --cask google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom superhuman gather the-unarchiver obsidian zsh`
+- Set zsh as default shell: `chsh -s /usr/local/bin/zsh`
 - Install Mac App Store Softs (iA Writer, Paste)
 	- `mas install 775737590 967805235`
 - Update Potential outdated App Store apps such as Xcode
