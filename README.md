@@ -6,7 +6,7 @@ List of things to do with a new computer
 ## 1. Install apps
 - Install [Homebrew](http://brew.sh/): `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 - Install Oh My Zsh: `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
-- Install NVM : `curl -L https://github.com/creationix/nvm/raw/v0.33.11/install.sh | bash`
+- Install NVM: `curl -L https://github.com/creationix/nvm/raw/v0.33.11/install.sh | bash`
 - Install tools
 	- `brew install git node awscli ffmpeg`
 	- [htop](https://hisham.hm/htop/) `brew install htop`
