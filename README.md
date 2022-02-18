@@ -53,6 +53,7 @@ List of things to do with a new computer
 7. Disable sound effects for Paste
 8. Add margins to iTerm (Preferences > Appearance): `30` for y and `50` for x margins
 9. [Import Tower license](https://account.git-tower.com/account/licenses)
+10. Update global git config: `git config --global user.email "lchenais@gmail.com"; git config --global user.name "Louis Chenais"; git config --global pull.rebase true;`
 
 ### Firefox
 1. Open Firefox and connect Firefox account to sync settings
