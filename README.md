@@ -35,8 +35,9 @@ List of things to do with a new computer
 2. Enable Dock hiding
 3. Change right click to right bottom corner
 4. Change keyboard key repeat rate to make it faster: System Preferences => Keyboard => Key Repeat Rate
-5. [Disable "Wake for WiFi access"](https://cln.sh/93Eswi) + [Other Settings](https://twitter.com/thorstenball/status/1088842854892482561)
-6. Update iTunes Preferences
+5. Always show scrollbars: System Preferences > General > Show scroll bars (to prevent UI issues when developping)
+6. [Disable "Wake for WiFi access"](https://cln.sh/93Eswi) + [Other Settings](https://twitter.com/thorstenball/status/1088842854892482561)
+7. Update iTunes Preferences
 	1. Update music location folder
 	2. Disable "Keep iTunes folder media organized"
 	3. Disable "Copy files to iTunes media folder"
