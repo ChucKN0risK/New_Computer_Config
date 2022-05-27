@@ -60,6 +60,7 @@ List of things to do with a new computer
 1. Open Firefox and connect Firefox account to sync settings
 2. Connect to Lastpass
 3. Install Vue Devtools: https://devtools.vuejs.org/guide/installation.html
+4. Set Firefox theme preferences to "System Theme"
 
 ### BetterTouchTool
 1. Basic Settings > Open on startup
