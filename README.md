@@ -19,8 +19,8 @@ List of things to do with a new computer
 	- `brew install --cask google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent fontplop figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom superhuman gather the-unarchiver obsidian zsh`
 - [Set zsh as default shell](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#how-to-install-zsh-on-many-platforms): `chsh -s /usr/local/bin/zsh`
 - Set `.zprofile`and `.zshrc` files from https://gist.github.com/ChucKN0risK/666d49b14fbccfab67d5ebc0f10caef5
-- Install Mac App Store Softs (iA Writer, Paste)
-	- `mas install 775737590 967805235`
+- Install Mac App Store Softs (iA Writer, Paste, Gifski)
+	- `mas install 775737590 967805235 1351639930`
 - Update Potential outdated App Store apps such as Xcode
 	- `mas upgrade`
 - [Google Chrome Canary](https://www.google.fr/chrome/browser/canary.html)
