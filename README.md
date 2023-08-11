@@ -16,7 +16,7 @@ List of things to do with a new computer
 	- `brew install --cask qlcolorcode qlstephen qlmarkdown quicklook-json betterzip qlimagesize webpquicklook qlvideo`
 - Fix potential QL plugins: Example for webpquicklook `xattr -d com.apple.quarantine ~/Library/QuickLook/WebpQuickLook.qlgenerator`
 - [Install main softs](https://caskroom.github.io/search) or use [Applite](https://github.com/milanvarady/Applite)
-	- `brew install --cask google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent figma docker airtable notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom superhuman gather the-unarchiver obsidian zsh nicotine-plus`
+	- `brew install --cask google-chrome slack firefox visual-studio-code iterm2 flux bettertouchtool tower transmit soulseek mediahuman-audio-converter appcleaner android-file-transfer vlc webtorrent figma docker notion megasync meta cleanshot ngrok deepl linear-linear telegram zoom raycast pitch loom superhuman gather the-unarchiver obsidian zsh nicotine-plus`
 - [Set zsh as default shell](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#how-to-install-zsh-on-many-platforms): `chsh -s /usr/local/bin/zsh`
 - Set `.zprofile`and `.zshrc` files from https://gist.github.com/ChucKN0risK/666d49b14fbccfab67d5ebc0f10caef5
 - Install Mac App Store Softs (iA Writer, Paste, Gifski)
