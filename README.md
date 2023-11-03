@@ -52,12 +52,11 @@ List of things to do with a new computer
 4. Log in npm through the CLI: `npm login`
 5. Automatically set the corresponding NPM version when you enter a project: https://github.com/nvm-sh/nvm#zsh
 6. Enable the `z` plugin for `zsh` by adding it in the plugins like so in the `.zshrc` file: `plugins=(git z)`
-7. Disable sound effects for Paste
-8. iTerm2:
+7. iTerm2:
   - Add margins (Preferences > Appearance): `30` for y and `50` for x margins
   - Make iTerm use previous session's directory (Preferences > Profile > Reuse previous session's directory)
-9. [Import Tower license](https://account.git-tower.com/account/licenses)
-10. Update global git config: `git config --global user.email "lchenais@gmail.com"; git config --global user.name "Louis Chenais"; git config --global pull.rebase true;`
+8. [Import Tower license](https://account.git-tower.com/account/licenses)
+9. Update global git config: `git config --global user.email "lchenais@gmail.com"; git config --global user.name "Louis Chenais"; git config --global pull.rebase true;`
 
 ### Firefox
 1. Open Firefox and connect Firefox account to sync settings
@@ -71,6 +70,7 @@ List of things to do with a new computer
 
 ### Paste
 - Set shortcuts
+- Disable sound effects
 
 ### Gather
 - Disable minimize window: Preferences > Desktop
