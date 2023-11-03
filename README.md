@@ -27,6 +27,7 @@ List of things to do with a new computer
 - [Paste 2.5](https://pasteapp.io/mac/legacy/download/)
 - [Logi Options](https://www.logitech.fr/fr-fr/product/options): to have all features of Logitech mouse and keyboard
 - [Texts](texts.com)
+- [Spek](https://www.spek.cc/) to detect fake reencoded mp3/flac files
 
 📝 To update all outdated app installed via homebrew: `brew update && brew upgrade`
 
